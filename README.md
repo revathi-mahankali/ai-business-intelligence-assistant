@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini AI Business Intelligence Assistant
 
 A small Flask app that answers sales questions using SQLite calculations. It supports total revenue, top product, monthly trend, top region, and revenue comparison between two months.
@@ -84,3 +85,6 @@ Browser UI → Flask `/api/ask` endpoint → question interpreter → fixed anal
 
 ## Known limitations
 This is a selection assessment prototype, not a production system. Natural-language coverage is limited, the data spans January–June 2026, and there is no authentication. Do not deploy it publicly without additional security work.
+=======
+# ai-business-intelligence-assistant
+>>>>>>> 816121ab5124d14a6dd75af2d92ac5ff7cf42b9a
